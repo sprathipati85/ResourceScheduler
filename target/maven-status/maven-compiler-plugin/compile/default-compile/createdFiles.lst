@@ -1,0 +1,8 @@
+com\resource\scheduler\GatewayImpl.class
+com\resource\scheduler\Receiver.class
+com\resource\scheduler\Message.class
+com\resource\scheduler\Gateway.class
+com\resource\scheduler\MessageImpl.class
+com\resource\scheduler\Application.class
+com\resource\scheduler\Resource.class
+com\resource\scheduler\ResourceConfiguration.class
